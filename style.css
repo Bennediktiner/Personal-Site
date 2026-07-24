@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(165, 179, 179);
+    color: rgb(46, 45, 45);
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+a{
+    color: violet;
+}
+.navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100;
+    margin: 20px;
+}
